@@ -1,4 +1,4 @@
-# Simple-Laundry
+# Simple-Laundry (JAVA NETBEANS)
 ==========>>>>>>>> Simple LAUNDRY <<<<<<<<==========
 
 => Fitur
